@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "332494959704",
+    "project_id": "miaged-d06d3",
+    "storage_bucket": "miaged-d06d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332494959704:android:f0137710d0f77ed7bf062d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.miaged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332494959704-79fihmjoheth5nv4fvdk6k4lae6sresf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTiOlKSYVG6CSdJficvO2N9NQw7Sqca74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332494959704-79fihmjoheth5nv4fvdk6k4lae6sresf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "332494959704-athg8tgnbbj3gon1320rmdee3aeskh46.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.miaged"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

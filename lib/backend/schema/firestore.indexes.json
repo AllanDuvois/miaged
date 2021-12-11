@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "panier",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "prix",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nom",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
